@@ -5,7 +5,7 @@
 <p align="center"><img alt="Print da aplicação" src="./assets/printAplicacao.jpg"></p><br>
 
 <h2 align="center">Sobre 📑</h2>
-<p align="center">Primeira landing page desenvolvida do zero, com base em um curso da Origamid (HTML e CSS para Iniciantes). o site apresenta uma bicicleta revolucionária, com todas as suas características sendo apresentadas em blocos, estilizados através diversas propriedades de CSS.</p><br>
+<p align="center">Primeira landing page desenvolvida do zero, com base em um curso da Origamid (HTML e CSS para Iniciantes). O site apresenta uma bicicleta revolucionária, com todas as suas características sendo apresentadas em blocos, estilizados através diversas propriedades de CSS.</p><br>
 
 <h2 align="center">Tecnologias ​⌨️ ​</h2>
 <p align="center">HTML e CSS</p><br>
