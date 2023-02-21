@@ -11,6 +11,6 @@
 <p align="center">HTML e CSS</p><br>
 
 <h2 align="center">Para acessar ​🔗️</h2>
-<p align="center"><a href="https://​nbra98.github.io/simple-landing-page-bikcraft/">Clique aqui</a></p><br><br>
+<p align="center"><a href="https://​nbra98.github.io/simple-landing-page-bikcraft/" target="_blank">Clique aqui</a></p><br><br>
 
 <p align="center"><img alt="user" src="./assets/nbra98.jpg"></p>
